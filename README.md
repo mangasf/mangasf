@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**mangasf/mangasf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Engineering Manager working in Barcelona, Spain.
 
-Here are some ideas to get you started:
+**NOW**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🍷 Working on Drinks&Co. The biggest wine and spirits Marketplace on Europe.
+- 🧑‍💻 Collaborating with Group4Layers technical consulting group.
+- 👯 Teaching software design classes at the university of la Salle.
+
+**BIO**
+
+- ⚙️ I use daily: `PHP`
+- 🌍 I'm mostly active within the [Group4Layers Community](https://www.group4layers.com)
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **software design**, **engineering management**, **development**
+- 📫 Reach me: [twitter.com/mangasf](https://twitter.com/mangasf)
+- ⚡️ Fun fact: I'm a huge fan of sci-fi movies
+
+
