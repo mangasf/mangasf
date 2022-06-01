@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Fran Mangas
 
-I'm a Engineering Manager working in Barcelona, Spain.
+I'm an Engineering Manager working in Barcelona, Spain.
 
 **NOW**
 
