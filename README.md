@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there! I'm Fran Mangas
 
 I'm a Engineering Manager working in Barcelona, Spain.
 
@@ -10,11 +10,16 @@ I'm a Engineering Manager working in Barcelona, Spain.
 
 **BIO**
 
-- ⚙️ I use daily: `PHP`
+- ⚙️ Always thinking about: `DDD`, `Hexagonal Architecture`, `CQRS`, `Testing`, `SOLID`, `Clean Code`, `Software Performance`
 - 🌍 I'm mostly active within the [Group4Layers Community](https://www.group4layers.com)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **software design**, **engineering management**, **development**
-- 📫 Reach me: [twitter.com/mangasf](https://twitter.com/mangasf)
+- 📫 Reach me: [twitter.com/mangasf0](https://twitter.com/mangasf0)
 - ⚡️ Fun fact: I'm a huge fan of sci-fi movies
+
+<br>
+📬 **LATEST BLOG POST**
+
+🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://www.group4layers.com/en/blog/2021-07-06/one-to-one-meets-teams-management)
 
 
