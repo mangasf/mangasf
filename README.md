@@ -4,9 +4,9 @@ I'm an Engineering Manager working in Barcelona, Spain.
 
 **NOW**
 
-- 🍷 Working on Drinks&Co. The biggest wine and spirits Marketplace on Europe.
-- 🧑‍💻 Collaborating with Group4Layers technical consulting group.
-- 👯 Teaching software design classes at the university of la Salle.
+- 🍷 Working at Drinks&Co. The biggest wine and spirits Marketplace on Europe.
+- 🧑‍💻 Collaborating with Group4Layers technical consulting group, experts in web development.
+- 👯 Teaching software design classes in a Master's Degree at La Salle University.
 
 **BIO**
 
@@ -14,7 +14,7 @@ I'm an Engineering Manager working in Barcelona, Spain.
 - 🌍 I'm mostly active within the [Group4Layers Community](https://www.group4layers.com)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **software design**, **engineering management**, **development**
-- 📫 Reach me: [twitter.com/mangasf0](https://twitter.com/mangasf0)
+- 📫 Reach me: [twitter.com/mangasf0](https://twitter.com/mangasf0) / [linkedin.com/in/mangasf](https://www.linkedin.com/in/mangasf)
 - ⚡️ Fun fact: I'm a huge fan of sci-fi movies
 
 <br>
