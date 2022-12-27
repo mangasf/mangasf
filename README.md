@@ -20,6 +20,6 @@ I'm an Engineering Manager working in Barcelona, Spain.
 
 📬 **LATEST BLOG POST**
 
-- 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://www.group4layers.com/en/blog/2021-07-06/one-to-one-meets-teams-management)
+- 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://mangasf.github.io/en/posts/meets-one-to-one/)
 
 
