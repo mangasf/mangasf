@@ -20,6 +20,6 @@ I'm an Engineering Manager working in Barcelona, Spain.
 
 📬 **LATEST BLOG POST**
 
-- 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://mangasf.github.io/en/posts/meets-one-to-one/)
+- 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://www.mangasf-project.com/en/posts/meets-one-to-one/)
 
 
