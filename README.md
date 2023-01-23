@@ -20,6 +20,8 @@ I'm an Engineering Manager working in Barcelona, Spain.
 
 📬 **LATEST BLOG POST**
 
+- 🚄 [Accelerate the development of your product through Outsourcing techniques](https://www.mangasf-project.com/en/posts/outsourcing-to-accelerate-product-development/)
 - 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://www.mangasf-project.com/en/posts/meets-one-to-one/)
+
 
 
