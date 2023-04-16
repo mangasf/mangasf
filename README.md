@@ -20,6 +20,7 @@ I'm an Engineering Manager working in Barcelona, Spain.
 
 📬 **LATEST BLOG POST**
 
+- 📣 [Radical Candor: The Key to Building High-Performing Teams](https://www.mangasf-project.com/en/posts/radical-candor-the-key-to-building-high-performing-teams/)
 - 👩‍🏫 [How to Be an Effective Engineering Mentor: Tips and Strategies](https://www.mangasf-project.com/en/posts/how-to-be-an-effective-engineering-mentor/)
 - 🚄 [Accelerate the development of your product through Outsourcing techniques](https://www.mangasf-project.com/en/posts/outsourcing-to-accelerate-product-development/)
 - 🌡️ [ 1:1 meetings as a thermometer for changes in the team ](https://www.mangasf-project.com/en/posts/meets-one-to-one/)
