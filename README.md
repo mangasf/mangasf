@@ -5,7 +5,7 @@ I'm an Engineering Manager working in Barcelona, Spain.
 **NOW**
 
 - 👑 Working at Adevinta. The global classifieds specialist with market-leading positions in key European markets.
-- 👯 Teaching software design classes in a Master's Degree at La Salle University.
+- 👯 Prev. Teaching software design classes in a Master's Degree at La Salle University.
 
 **BIO**
 
